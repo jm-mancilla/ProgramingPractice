@@ -34,4 +34,8 @@ public class exercisesMain {
         arrayOfIntegers[j] = aux;
     }
 
+    static void gitHubUpdateTest(){
+
+    }
+
 }
